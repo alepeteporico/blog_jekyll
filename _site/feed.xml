@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Alepeteporico</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Post 1</title>
+        <description>
+          Subtitulo del post 1 - 
+          
+  foto 1
+
+
+
+
+
+  foto 2
+
+
+
+
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>post 2</title>
+        <description>
+          subtitulo del post 2 - 
+          Titulo 1
+
+link
+
+Titulo 2
+
+Aqui podemos poner codigo
+
+
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
